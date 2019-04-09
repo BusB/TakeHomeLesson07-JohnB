@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClassWeek08</string>
+    <string name="actionbar">Go to Actionbar Activity</string>
+    <string name="random">Add Random Prez</string>
+</resources>
